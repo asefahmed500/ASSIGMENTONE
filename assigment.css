@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+.Bi {
+    background-image: url('/resources/Banner\ Image.png');
+    background-color: aliceblue;
+    border-radius: 16px;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background-position: flex;
+    border-radius: 2px;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 50px;
+}
+
+.h1d {
+    color: white;
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    margin-left: 400px;
+    margin-right: 400px;
+   
+   
+  
+}
+
+.h5d {
+    color: white;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
