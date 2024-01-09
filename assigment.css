@@ -2,6 +2,8 @@ body {
     margin: 0;
 }
 
+/* 1st section  */
+
 .Bi {
     background-image: url('/resources/Banner\ Image.png');
     background-color: aliceblue;
@@ -27,9 +29,9 @@ body {
     line-height: 95px;
     margin-left: 400px;
     margin-right: 400px;
-   
-   
-  
+
+
+
 }
 
 .h5d {
@@ -40,4 +42,63 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+
+}
+
+/* 2nd section */
+
+.second{
+    box-sizing: border-box
+}
+
+
+
+.dis {
+    padding: 10px 0;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 107px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FF0000;
+
+}
+
+.divs {
+
+    display: block;
+    width: 1600px;
+    height: 7335px;
+    background: #FFF;
+   
+}
+
+.des {
+
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.item {
+
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+.im {
+    margin-left: 400px;
+    margin-left: 400px;
+
 }
