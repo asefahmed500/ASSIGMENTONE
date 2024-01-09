@@ -165,6 +165,7 @@ body {
     display: flex;
     display: block;
 
+
 }
 
 .go {
@@ -269,7 +270,7 @@ body {
 .ver {
     display: flex;
     flex-direction: row;
-    
+
 }
 
 .mo {
@@ -279,7 +280,70 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    
+
     border-right: 20px;
 
 }
+
+.jo {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+
+.iu {
+    margin-left: 276px;
+}
+
+/* section six */
+
+.six {
+    background-color: rgb(228, 240, 240);
+    margin-left: 140px;
+    margin-right: 140px;
+    padding: 130px;
+    border-radius: 10px;
+}
+
+.xo {
+
+    display: flex;
+    display: block;
+
+}
+
+.lo {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+}
+
+.ko {
+    text-align: center;
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.pl {
+    text-align: center;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    
