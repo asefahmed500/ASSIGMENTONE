@@ -27,8 +27,7 @@ body {
     font-style: normal;
     font-weight: 900;
     line-height: 95px;
-    margin-left: 400px;
-    margin-right: 400px;
+    padding: 233px 344px 177px 344px ;
 
 
 
@@ -42,16 +41,17 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    padding: 177px 531px 383px 530px;
 
 }
 
 /* 2nd section */
 
-.second{
-    box-sizing: border-box
+
+.second {
+    display: flex;
+    row-gap: 120px;
 }
-
-
 
 .dis {
     padding: 10px 0;
@@ -69,9 +69,10 @@ body {
 
     display: block;
     width: 1600px;
-    height: 7335px;
     background: #FFF;
-   
+    border-radius: 10px;
+
+
 }
 
 .des {
@@ -100,5 +101,43 @@ body {
 .im {
     margin-left: 400px;
     margin-left: 400px;
+
+}
+
+/* third */
+
+
+.sectionthree {
+    background-image: url('../resources/Vectorrr.png');
+    margin-top: 20px;
+    height: auto;
+    fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    margin-left: 140px;
+    margin-right: 140px;
+    border-radius: 16px;
+    width: 1320px;
+    height: 600px;
+
+
+
+}
+
+.h3d {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    margin-left: 126px;
+    margin-top: 126px;
+    width: 642px;
+    height: 176px;
+    padding-left: 126px;
+    padding-top: 126px;
+    padding-bottom: 298px;
+    padding-right: 552px;
+
 
 }
