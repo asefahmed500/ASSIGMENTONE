@@ -513,16 +513,21 @@ body {
     font-weight: 500;
     line-height: 40px;
     display: flex;
-   
+
 
 
 }
 
-.w{
+.w {
     color: #FFF;
     margin-left: 140px;
 }
 
-.cl{
+.cl {
+    /* text-align: center;
+    width: 64px;
+    height: 64px;
+    flex-shrink: 0; */
+    display: flex;
     justify-content: center;
 }
