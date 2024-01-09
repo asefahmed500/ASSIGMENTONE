@@ -5,7 +5,7 @@ body {
 /* 1st section  */
 
 .Bi {
-    background-image: url('/resources/Banner\ Image.png');
+    background-image: url('/resources/Banner.png');
     background-color: rgb(35, 5, 5);
     border-radius: 16px;
     width: 1320px;
@@ -55,7 +55,7 @@ body {
 
 
 .second {
-    display: flex;
+    
     display: block;
     box-sizing: border-box;
     border: 0.5px solid;
@@ -111,7 +111,7 @@ body {
 
 .im {
     margin-left: 400px;
-    margin-left: 400px;
+    
 
 }
 
@@ -119,7 +119,7 @@ body {
 
 
 .sectionthree {
-    background-image: url('../resources/Vectorrr.png');
+    background-image: url('/resources/Vectorrr.png');
     margin-top: 20px;
     height: auto;
     fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
